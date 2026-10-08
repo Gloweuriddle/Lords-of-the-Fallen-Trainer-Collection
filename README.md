@@ -1,5 +1,15 @@
 # ⚔️ Lords of the Fallen (2023) — Ultimate Trainer & Mod Collection
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=28&duration=2200&pause=500&color=C9A227&center=true&vCenter=true&multiline=true&width=950&height=120&lines=LORDS+OF+THE+FALLEN+%E2%80%A2+TRAINER+COLLECTION;RISE+FROM+THE+UMBRAL+%E2%80%A2+RECLAIM+YOUR+LEGACY;GOD+MODE+%E2%80%A2+INFINITE+VIGOR+%E2%80%A2+ONE-HIT+KILL" alt="Lords of the Fallen Typing Animation" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Umbral Realm Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=1600&pause=400&color=C9A227&center=true&vCenter=true&width=850&lines=%E2%9A%94+UMBRAL+LAMP+ONLINE;%E2%9A%94+SOULFLAME+ACTIVE;%E2%9A%94+TRAINER+ENGAGED" alt="Umbral Status Bar" />
+</p>
 <p align="center">
   <b>Rise from Death | Reclaim the Light | Master the Umbral</b>
 </p>
